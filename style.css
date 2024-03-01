@@ -495,9 +495,9 @@ section{
 .row:hover img{
     transform:scale(1.1);
 }
-.row:hover .layer{
+/* .row:hover .layer{
     height:100%;
-}
+} */
 .contact{
     display: grid;
     grid-template-columns: repeat(2,1fr);
